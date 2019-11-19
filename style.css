@@ -1,0 +1,13 @@
+body
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  vertical-align: middle;
+}
+.cuadro
+{
+  display: table-cell;
+  vertical-align: middle;
+  font-family: 'Major Mono Display', monospace;
+}
